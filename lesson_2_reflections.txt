@@ -1,0 +1,10 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+	I think in this monent git creates an empty folder and an empty metadata structures.
+	After, when I will add commits, this folder and metadata will be filled.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area allow us track not all files in working directory. It make sense especcially when we have large unchanged files in our program.
+
+	
