@@ -8,3 +8,5 @@
 	Staging area allow us track not all files in working directory. It make sense especcially when we have large unchanged files in our program.
 
 	
+----
+    I'm not sure how to use text editor to write commit message

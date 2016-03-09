@@ -28,4 +28,4 @@
 
 7. Now that you have your workspace set up, what do you want to try using Git for?
 
-    Fill in your answer here
+    I'm not sure how to use text editor to write commit message
